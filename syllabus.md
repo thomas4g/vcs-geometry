@@ -31,15 +31,15 @@ See schedule:
 |-------|---------------|---------------|-------------------------------|-------------------|
 |   2   | August 30     | Chapter 2     | 1.1 - 1.5                     |                   |
 |   3   | September 6   | Chapter 2     | 2.1 - 2.3                     |                   |
-|   4   | September 13  | Chapter 3     | 2.4 - 2.6                     | Chapter 1-2 Exam  |
-|   5   | September 20  | Chapter 3     | 3.1 - 3.2, Chapter 1-2 Exam   |                   |
-|   6   | October 4     | Chapter 4     | 3.3 - 3.7                     | Chapter 3 Exam    |
-|   7   | October 11    | Chapter 4     | 4.1 - 4.2, Chapter 3 Exam     |                   |
-|   8   | October 18    | Chapter 5     | 4.3 - 4.7                     | 					|
-|   9   | October 25    | Chapter 6     | 5.1 - 5.4						| Chapter 4-5 Exam  |
-|  10   | November 1    | Chapter 6     | 6.1 - 6.2, Chapter 4-5 Exam	|					|
-|  11   | November 8    | Chapter 7 	| 6.3 - 6.6						| Chapter 6 Exam	|
-|  12   | November 15   | Chapter 7     | 7.1 - 7.2, Chapter 6 Exam		|					|
+|   4   | September 13  | Chapter 3     | 2.4 - 2.6                     | 					|
+|   5   | September 20  | Chapter 3     | 3.1 - 3.3					    | Chapter 2 Exam	|
+|   6   | October 4     | Chapter 4     | 3.4 - 3.5, Chapter 1-2 Exam	| 					| 
+|   7   | October 11    | Chapter 4     | 3.6 - 3.7, 4.1 - 4.3			|                   |
+|   8   | October 18    | Chapter 5     | 4.4 - 4.7                     | Chapter 3-4 Exam  |
+|   9   | October 25    | Chapter 6     | 5.1 - 5.2, Chapter 3-4 Exam  	| 					|
+|  10   | November 1    | Chapter 6     | 5.3 - 5.4, 6.1 - 6.3			|                   |
+|  11   | November 8    | Chapter 7     | 6.4 - 6.6                     | Chapter 5-6 Exam  |
+|  12   | November 15   | Chapter 7     | 7.1 - 7.2, Chapter 5-6 Exam	|                   |
 |  13   | November 22   | THANKSGIVING  |                               |                   |
 |  14   | November 29   | Chapter 8     | 7.3 - 7.6						|					|
 |  15   | December 6    | Chapter 8     | 8.1 - 8.4						|					|
